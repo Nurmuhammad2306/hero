@@ -1,0 +1,227 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url(../fonts/Poppins-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url(../fonts/Poppins-Medium.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url(../fonts/Poppins-SemiBold.ttf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url(../fonts/Poppins-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url(../fonts/Poppins-ExtraBold.ttf);
+  font-weight: 800;
+}
+
+* {
+  font-family: 'Poppins' !important;
+}
+
+.body {
+  background: white;
+}
+
+.back {
+  background: #926ff6;
+}
+
+.home_text {
+  color: #FFFFFF;
+}
+
+.fw-bold {
+  font-weight: 800;
+}
+
+.yellows {
+  color: #FFE074;
+  font-weight: 800;
+  font-size: 12, 27px;
+}
+
+.text_weight {
+  font-weight: 300;
+  font-size: 16px;
+  color: #4F4F4F;
+  text-align: unset;
+}
+
+.photo-1 {
+  width: 394px;
+  height: 301px;
+  left: 71px;
+  border-radius: 5px;
+}
+
+
+.pinks {
+  color: #F3849F;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.box-1 {
+  background-color: #f3f3f3;
+}
+
+.yellowss {
+  color: #FFAE00;
+  font-weight: 700;
+  font-size: 12, 27px;
+}
+
+.creat {
+  color: #4F4F4F;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.weights {
+  font-weight: 500;
+  color: #4F4F4F;
+  font-size: 24px;
+}
+
+.nonee {
+  text-decoration: none;
+  color: #828282;
+}
+
+.alls {
+  text-decoration: none;
+  color: #FFFFFF;
+  background-color: #F3849F;
+  border-radius: 26px;
+  padding: 1px 18px;
+}
+
+.photo {
+  height: auto;
+  width: 100%;
+}
+
+.bolds {
+  font-weight: 800;
+  font-size: 62, 8px
+}
+
+.town {
+  font-weight: 300;
+  font-size: 16, 6px;
+}
+
+.web {
+  color: #4F4F4F;
+  font-weight: 500;
+  font-size: 16, 58px;
+}
+
+.t-web {
+  color: #4F4F4F;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.devel {
+  color: #4F4F4F;
+  font-weight: 500;
+  font-size: 16, 58px;
+}
+
+.t-devel {
+  color: #4F4F4F;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.resea {
+  color: #4F4F4F;
+  font-weight: 500;
+  font-size: 16, 58px;
+}
+
+.t-resea {
+  color: #4F4F4F;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.body-1 {
+  background: #F7EEFF;
+}
+
+.recent {
+  font-weight: 500;
+  font-size: 24px;
+  color: #4F4F4F;
+}
+
+.opinion {
+  font-weight: 700;
+  font-size: 10px;
+  color: #F3849F;
+}
+
+.t-opinion {
+  font-weight: 500;
+  font-size: 12, 27px;
+  color: #4F4F4F;
+}
+
+.news {
+  font-weight: 700;
+  font-size: 10px;
+  color: #926FF6;
+}
+
+.t-news {
+  font-weight: 500;
+  font-size: 12, 27px;
+  color: #4F4F4F;
+}
+
+.opinions {
+  font-weight: 700;
+  font-size: 10px;
+  color: #79CFFF;
+}
+
+.t-opinions {
+  font-weight: 500;
+  font-size: 12, 27px;
+  color: #4F4F4F;
+}
+
+.text-start {
+  text-align: start;
+}
+
+.body-2 {
+  background: #333333;
+  width: auto;
+  height: 150px;
+}
+
+.t-black {
+  font-size: 14,26px;
+  font-weight: 400;
+  color: #F7EEFF;
+}
+
+
+@media screen and (max-width: 768px) {}
